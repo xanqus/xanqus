@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Xanqus%20Github&fontSize=70&animation=twinkling)
 
+<br/>
+<br/>
+<br/>
 <p align="center">
 🛠 Tech Stack 🛠
 </p>
@@ -17,13 +20,17 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp; 
 </p>
            
-           
+<br/>
+<br/>
+<br/>
 <p align="center">
 <a href="https://velog.io/@sbk9803"><img src="https://img.shields.io/badge/Service%20Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sbk9803"/></a>&nbsp;
 <a href="https://velog.io/@pastacoder9803"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@pastacoder9803"/></a>&nbsp;
 </p>
 
-
+<br/>
+<br/>
+<br/>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxanqus%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
