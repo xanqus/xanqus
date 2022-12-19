@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Xanqus%20Github&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Xanqus&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <br/>
 <br/>
@@ -34,3 +34,6 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxanqus%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
